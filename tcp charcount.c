@@ -1,6 +1,3 @@
-//server
-
-
 // server.c
 
 #include <stdio.h>
@@ -91,7 +88,7 @@ int main() {
 }
 
 
-//client
+
 
 
 
