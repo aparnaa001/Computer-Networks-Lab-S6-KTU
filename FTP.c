@@ -1,4 +1,4 @@
-server.c
+//server.c
 
 
 #include <stdio.h>
@@ -96,7 +96,7 @@ return 0;
 }
 
 
-client.c
+//client.c
 
 #include <stdio.h>
 #include <stdlib.h>
