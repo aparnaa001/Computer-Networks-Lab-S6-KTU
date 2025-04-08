@@ -1,4 +1,4 @@
-server.c
+//server.c
 
 #include <stdio.h>
 #include <string.h>
@@ -37,7 +37,7 @@ int main() {
 }
 
 
-client.c
+//client.c
 
 
 #include <stdio.h>
