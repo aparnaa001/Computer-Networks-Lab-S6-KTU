@@ -1,4 +1,4 @@
-ARQ SIMULATION
+//ARQ SIMULATION
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -39,7 +39,7 @@ int main() {
     return 0;
 }
 
-server.c
+//server.c
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -119,7 +119,7 @@ int main() {
 
 
 
-client.c
+//client.c
 
 
 #include <stdio.h>
